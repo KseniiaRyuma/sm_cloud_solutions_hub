@@ -1,3 +1,6 @@
+## Access Website
+
+https://kseniiaryuma.github.io/sm_cloud_solutions_hub.github.io/
 
 ## Status
 
